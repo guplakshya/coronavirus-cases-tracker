@@ -1,0 +1,17 @@
+body{
+    background-color: #000;
+}
+
+h1,p{
+    color: #fff;
+}
+
+h1{
+    padding: 20px;
+    text-align: center;
+}
+
+.jumbotron{
+    background-color: #000;
+    border: #fff;
+}
